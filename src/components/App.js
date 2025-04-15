@@ -1,5 +1,3 @@
-
-
 import React from "react";
 import { useState } from "react";
 
@@ -139,4 +137,3 @@ const Menu = () => {
 };
 
 export default Menu;
-
